@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d267be1-1384-4f60-9b2a-a5c78dee420a" name="Default Changelist" comment="" />
+    <list default="true" id="0d267be1-1384-4f60-9b2a-a5c78dee420a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capital.php" beforeDir="false" afterPath="$PROJECT_DIR$/capital.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +13,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j6CXt4PhUAUqSFqxnQEOH0tkiQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -39,10 +46,33 @@
       <updated>1603115196886</updated>
       <workItem from="1603115198063" duration="4216000" />
       <workItem from="1603175615766" duration="6331000" />
+      <workItem from="1603182995569" duration="844000" />
+      <workItem from="1603183886797" duration="699000" />
+      <workItem from="1603184648059" duration="20000" />
+      <workItem from="1603184904769" duration="607000" />
+      <workItem from="1603194169165" duration="1235000" />
+      <workItem from="1603200464975" duration="1246000" />
+      <workItem from="1603262362085" duration="734000" />
+      <workItem from="1603269369686" duration="4831000" />
+      <workItem from="1603280077908" duration="641000" />
+      <workItem from="1603281119619" duration="7889000" />
+      <workItem from="1603348580175" duration="8263000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
